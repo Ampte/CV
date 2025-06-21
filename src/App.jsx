@@ -22,6 +22,7 @@ const App = () => {
               <li><i class="fa-brands fa-css3-alt"></i>CSS</li>
               <li><i class="fa-brands fa-js"></i>JavaScript</li>
               <li><i class="fa-brands fa-react"></i>React Js</li>
+              <li><i class="fa-brands fa-node-js"></i>Express Js</li>
               <li><i class="fa-brands fa-node-js"></i>Node Js</li>
               <li><i class="fa-solid fa-database"></i>SQL</li>
               <li><i class="fa-brands fa-python"></i>Python</li>
