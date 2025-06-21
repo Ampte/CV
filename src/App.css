@@ -51,7 +51,7 @@ span{
 
 .skills{
   padding: 10px;
-  font-size: x-large;
+  font-size: large;
 }
 
 .tech-skills, .soft-skills{
@@ -72,11 +72,11 @@ li{
 }
 
 .heading{
-  font-size: xx-large;
+  font-size: x-large;
 }
 
 .project-name{
-  font-size: x-large;
+  font-size: large;
   margin: 10px;
   text-decoration: underline;
 }
@@ -99,7 +99,7 @@ li{
 }
 
 .institution{
-  font-size: x-large;
+  font-size: large;
   padding: 10px;
 }
 
@@ -111,9 +111,6 @@ li{
   padding: 10px;
 }
 
-p{
-  font-size: large;
-}
 
 .project-details{
   padding: 10px;
@@ -140,6 +137,22 @@ button{
     display: grid;
     grid-template-areas: "about-me education education"
     "about-me projects projects";
+  }
+
+  .skills{
+    font-size: x-large;
+  }
+
+  p{
+    font-size: large;
+  }
+
+  .institution{
+    font-size: x-large;
+  }
+
+  .heading{
+    font-size: xx-large;
   }
 
 }
