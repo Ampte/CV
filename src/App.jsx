@@ -64,7 +64,7 @@ const App = () => {
       <button><i class="fa-brands fa-x-twitter"style={{color: 'white', fontSize:'large',margin: '10px'}}></i></button>
       <button><i class="fa-brands fa-linkedin"style={{color: 'white', fontSize:'large', margin: '10px'}}></i></button>
       <button><i class="fa-brands fa-facebook"style={{color: 'white', fontSize:'large', margin: '10px'}}></i></button>
-      <p>&copy; Ampte B Marak CV.</p>
+      <p>&copy; Ampte B Marak's CV.</p>
     </div>
     </>
   );
