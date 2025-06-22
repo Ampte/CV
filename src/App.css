@@ -57,7 +57,7 @@ span{
 .tech-skills, .soft-skills{
   font-size: large;
   text-decoration: underline;
-  padding: 10px;
+  padding-top: 10px;
 }
 
 li{
@@ -77,8 +77,9 @@ li{
 
 .project-name{
   font-size: large;
-  margin: 10px;
   text-decoration: underline;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .education{
@@ -90,12 +91,11 @@ li{
 
 .college{
   background-color: rgb(211, 243, 243);
-  margin: 10px;
+  margin-bottom: 10px;
 }
 
 .school{
   background-color: rgb(196, 220, 241);
-  margin: 10px;
 }
 
 .institution{
@@ -111,10 +111,6 @@ li{
   padding: 10px;
 }
 
-
-.project-details{
-  padding: 10px;
-}
 
 .footer{
   background-color: rgb(9, 199, 104);
